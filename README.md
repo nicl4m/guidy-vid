@@ -1,3 +1,3 @@
 # guidy-vid
 
-##storage for guidy.ru vids
+storage for guidy.ru vids
